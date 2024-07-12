@@ -1,0 +1,17 @@
+#tr-area{
+    display: none;
+}
+.deposit{
+    background-color: slateblue;
+}
+.witdraw{
+    background-color: salmon;
+}
+.balance{
+    background-color: orange;
+}
+.status{
+    padding: 20px;
+    margin: 0px 20px;
+    border-radius: 10px;
+}
